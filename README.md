@@ -1,6 +1,6 @@
 # windows-event-schemas
 
-I was looking for some a compiled location of the Windows event logs XML schema and couldnt find it.
+I was looking for a compiled location of the Windows event logs XML schema and couldnt find it.
 
 Decided to just pull this `https://github.com/MicrosoftDocs/windows-itpro-docs/tree/main/windows/security/threat-protection/auditing`
 and then:
